@@ -4,7 +4,7 @@ ruby '1.9.3'
 
 gem 'rails', '3.2.13'
 gem 'ember-rails'
-gem 'ember-source', '1.0.0.rc6' # or the version you need
+gem 'ember-source', '3.0.0.beta.2' # or the version you need
 gem 'handlebars-source', '1.0.0.rc4' # or the version you need
 gem 'jquery-rails'
 gem 'chosen-rails'
